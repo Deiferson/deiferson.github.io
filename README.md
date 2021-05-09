@@ -19,4 +19,4 @@ sudo npm install vsoagent-installer -g
 ```
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+![a](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
