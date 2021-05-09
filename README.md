@@ -16,3 +16,5 @@ sudo npm install vsoagent-installer -g
 .
 ```
 
+Add lines between your text with the **Enter** key.
+Your text gets better spaced and makes it easier to read.
